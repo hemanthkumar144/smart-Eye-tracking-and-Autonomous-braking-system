@@ -1,0 +1,18 @@
+MOTOR DRIVER
+{
+driver motor  12v--->battery +
+driver motor  gnd----> bread board  GND
+ardiuno  GND------->bread  board   GND
+motor a ---->out 1 & out 2
+motor b----->out3 and out4
+IN1----->D6
+IN2------>D7
+IN3------->D11
+IN4------->D12
+ENA------>D5
+ENB------->D3
+}
+BUZZER  + ---->d8
+BUZZER  - ------>BREAD BOARD GND 
+2 Leds + --------->D9,D10
+leds -  --------->BREAD BOARD GND 
